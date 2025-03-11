@@ -42,6 +42,7 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
+![Screenshot 2025-03-11 113951](https://github.com/user-attachments/assets/313cab1e-ba05-4c8d-997f-ad0576767a8b)
 
 
 ### Procedure for Association Rules:
@@ -53,5 +54,7 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+![Screenshot 2025-03-11 115230](https://github.com/user-attachments/assets/2cc8a8b1-70eb-406e-9a7c-17926ec93eee)
 
 ### RESULT: 
+associate rules for the employee dataset using Apriori Algorithm is executed successfully.
